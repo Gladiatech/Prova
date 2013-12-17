@@ -29,7 +29,6 @@ BEGIN_MESSAGE_MAP(CMainFrame, CMDIFrameWndEx)
 	ON_WM_SETTINGCHANGE()
 END_MESSAGE_MAP()
 
-
 static UINT indicators[] =
 {
 	ID_SEPARATOR,           // status line indicator
