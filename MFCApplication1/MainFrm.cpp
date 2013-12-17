@@ -35,7 +35,7 @@ static UINT indicators[] =
 	ID_INDICATOR_CAPS,
 	ID_INDICATOR_NUM,
 	ID_INDICATOR_SCRL,
-}
+};
 
 // CMainFrame construction/destruction
 
