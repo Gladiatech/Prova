@@ -17,6 +17,7 @@
 #endif
 
 
+
 // CMFCApplication1App
 
 BEGIN_MESSAGE_MAP(CMFCApplication1App, CWinAppEx)
